@@ -20,6 +20,7 @@ int main(){
 
 int arr[]={1,2,3,4,5,26,47,88,99};
 int size=9;
+
 int key =88;
 cout<<bin(arr,size,key);
 
